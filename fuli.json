@@ -328,27 +328,12 @@
 
  
  
-      {"key": "好莱污A","name": "好莱坞🚽影院A版",
-		   "type": 3,
-		   "api": "csp_XBPQ","ext": {
-           "主页url": "https://boutiquefire.xyz/",
-           "直接播放": "1",
-           "数组": "\"colVideoList\"&&\"colVideoList\"",
-	      "图片":"style=\"background-image: url('&&')\"",
-          "标题":"class=\"title text-sub-title mt-2 mb-3*>&&</a>",
-          "链接": "href=\"&&\"",
-	      "跳转播放链接":"var player_*\"url\":\"&&\"",
-		   "搜索url": "https://boutiquefire.xyz/index.php/vod/search.html?wd={wd}",
-	      "分类url": "https://boutiquefire.xyz/index.php/vod//type/id/{cateId}/page/{catePg}.html",
-		
-          "分类": "国产视频$20#中文字幕$21"}},
 
  
  
  
- 
     
-      {"key": "好莱污B","name": "好莱坞🚽影院B版",
+      {"key": "好莱污B","name": "好莱坞🚽影院",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -510,27 +495,6 @@
 	
 	
 
-	
-	  
-	    {"key":"韩情剧场",
-       "name":"🎦韩情剧场🎦",
-       "type":3,
-       "api":"csp_XBPQ",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":{"数组":"video-item space-sm\">&&</div></div>",
-	   "图片":"data-original=\"&&\"",
-      "标题":"<div class=\"video-item-title\">&&</a>",
-       "链接":"href=\"&&\"",
-       "副标题": "video-time text-shadow-black\">&&</span>",
-	   "搜索url":"https://www.hqjc8.homes/s/index.html?type=pic&wd={wd}",
-       "搜索模式":"1",
-	   "分类url":"https://www.hqjc8.homes/vodtype/{cateId}-{catePg}.html",
-       "分类":"亚洲骑兵1️⃣$20#亚洲骑兵2️⃣$21#亚洲骑兵3️⃣$22#亚洲骑兵$23#亚洲步兵$25#岛国中文$28#岛国步兵$29#其他$27",
-       "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	   "直接播放":"1" }},
-	  
 	  
 	  	
     {"key": "探探视频","name": "探探⚡️影院",
@@ -689,29 +653,7 @@
    
    
    
-	
 
-
-
-
-
-    { "key": "七色古",
-      "name": "🌧️七色影院🌧️",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://q1r2s3t4.qisegu26.buzz/vodtype/{cateId}-{catePg}/",
-		
-        "分类": "中文字幕🆕$41#制服诱惑$47#日本🈚️🐎$44#强奸乱伦$46#日本🈶️🐎$43#中文字幕旧$15#🈚️🐎中文$144#巨乳中文$151#乱伦中文$146#人妻中文$147#调教中文$149#强奸中文$150#制服中文$145#无码中文$14",
-        "搜索模式": "1",
-		"数组": "class=\"video-pic loading\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "class=\"content-img lazy\" data-original=\"&&\"",
-        "副标题": "note text-bg-r\">&&<",
-        "链接": "/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
-        "直接播放":"1"
-      } },		
-	
 
     
 	 
