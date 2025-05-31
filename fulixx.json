@@ -4,6 +4,9 @@
 "sites":[
 
   
+
+  
+  
      
 
  
@@ -99,7 +102,33 @@
   
     
   
- 
+   
+	   {"key": "3av.co","name": "印度阿三🧾视频",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1, "quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://www.3av.co/",
+       "数组":"\"myui-vodlist__box\"&&\"myui-vodlist__box\"",
+       "图片":"data-original=\"&&\"",
+       "链接": "href=\"&&\"",
+       "标题": "title=\"&&\"",
+	    "副标题": "<span>&&</span>",
+	   "导演":"三哥",
+       "主演":"印巴",
+       "简介":"刚买的飞机 刚买的飞机 刚买的飞机被打啦,打下来撸一撸",
+	   "播放数组":"<ul class=\"nav nav-tabs active &&</ul>[排序:高清>超清>1080p]",
+	    "线路数组":"<ul class=\"nav nav-tabs active &&</ul>",
+	    "线路标题": ">✈️打飞机✈️<",
+	    "播放列表": "<a&&a>",
+	    "播放标题": ">&&</",
+	   "播放链接": "href=\"&&\"",
+	    "搜索模式":"1",
+        "搜索url":"https://www.3av.co/vodsearch/-.html?wd={wd}",
+       "分类url": "https://www.3av.co/vodtype/{cateId}-{catePg}.html",
+	    "分类数组": "<a&&</a>",
+       "分类标题": ">&&</",
+        "分类ID": "/vodtype/&&.html"
+      }},
+	  
     
 	  
   
@@ -958,7 +987,36 @@
                // "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
                 //"分类ID": "/index.php/vod/type/id/&&.html"
             }
-        }],
+        },
+
+    
+
+   {
+      "key": "七色古",
+      "name": "👩‍🎨7️⃣ 色影视📀",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./XBPQ/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+		  "主页url":"https://a5b6c7d8.qisegu25.buzz/qs/",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "数组": "<li class=\"content-item&&</span>",
+        "标题": "title=\"&&\"",
+		"副标题":"<span class=\"note text-bg-r\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+        "搜索url": "https://a5b6c7d8.qisegu25.buzz/vodsearch/{wd}----------{pg}---.html",
+        "搜索链接": "/vodplay/+/voddetail/&&.html+-1-1.html",
+        "分类url": "https://a5b6c7d8.qisegu25.buzz/vodtype/{cateId}-{catePg}.html;;z",
+	
+        "分类": "国产传媒$1#国产剧情$2#精品资源$4#特色仓库$5#必射精选$3#网曝黑料$20#中文字幕$15",
+       "类型": "精东影业$27#蜜桃传媒$24#天美传媒$23#皇家华人$25#麻豆视频$21#兔子先生$30#91制片厂$22#星空传媒$26萝莉社$38#杏吧原创$31#大象传媒$34#开心鬼传媒$35#mini传媒$33#糖心Vlog$37#性视界$39#玩偶姐姐$32网曝黑料$53#激情动漫$49#AV解说$55#国产主播$48#明星换脸$50#抖阴视频$51#伦理三级$54#女优明星$52SM调教$56#网红头条$60#极品媚黑$58#萝莉少女$57#VR视角$63#人妖系列$61#韩国主播$62#女同性恋$59偷拍自拍$163#国产大作$164#乱伦毁三观$165#嫖妓全过程$166#淫乱学生妹$167#黑料不打烊$168#监控摄像头$169#主播网红$170成人综艺$171#媚黑母狗$172#为国争光$173#少女破处$174#燃烧荷尔蒙$175#重口味$176#东南亚$178#人兽典藏$197调教中文$150#制服中文$148#人妻中文$149#无码中文$144#强奸中文$145#出轨中文$151#乱伦中文$147#巨乳中文$146"
+      }
+    }],
 
 
 
