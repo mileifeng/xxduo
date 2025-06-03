@@ -1,13 +1,41 @@
 {
-//"spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
+"spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
 
 "sites":[
 
   
-
+   {"key": "sebaa.mom","name": "SEBAA😮‍💨影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { "主页url": "https://www.sebaa.mom/", 
+	"数组": "<a class=\"thumbnail&&</li>", 
+	"图片": "src=\"&&\"", 
+	 "标题": "ait=\"&&\"",
+	"副标题": "<p>&&</p>",  
+	 "分类数组": "<a&&a>",
+     "分类标题": ">&&</",
+     "分类ID": "/index.php/vod/type/id/&&.html",
+	"线路数组":"<ul class=\"detail-play-list&&</ul>",
+    "播放数组":"<ul class=\"detail-play-list&&</ul>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+	"搜索模式": "1", 
+	"搜索url": "https://www.sebaa.mom/index.php/vod/search.html?wd={wd}",
+	"分类url":"https://www.sebaa.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
   
   
-     
+     {"key": "SOAV","name": "SO😍888💰",
+		"type": 3,"api": "csp_XBPQ",
+            "style":{"type": "rect","ratio": 1.5},
+			"ext": { "主页url": "https://soav888.cfd/",
+                "数组": "<article data-video-uid&&</a>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "简介": "少看点，再看你就废了！！！",
+                "链接": "href=\"&&\"",
+                "分类url": "https://soav888.cfd/{cateId}/page/{catePg}/?filter={by};;z",
+                "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"}},
 
  
 	
@@ -103,7 +131,7 @@
     
   
    
-	   {"key": "3av.co","name": "印度阿三🧾视频",
+	   {"key": "3av.co","name": "印度阿三🧾",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1, "quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.3av.co/",
@@ -408,6 +436,24 @@
   
   
    
+    {"key": "猛男专属","name": "猛男📱专属",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"主页url": "https://wwww.69av.my/",
+       "数组": "class=\"video-pic loading\"&&</a>",
+       "标题": "title=\"&&\"",
+       "图片": "data-original=\"&&\"",
+       "副标题": "note text-bg-r\">&&<",
+       "链接": "/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+       "直接播放":"1",
+	   "搜索模式": "1", 
+	   "搜索url": "https://wwww.69av.my/index.php/vod/search.html?wd={wd}",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://wwww.69av.my/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "国产X传媒$1#中文字幕$5#精品日韩$12#精选视频$4#精品女优$3"
+      }},
   
   
   
@@ -438,6 +484,23 @@
       }},
   
   
+    	{"key":"av77.com/","name":"7️⃣ 7️⃣ 77影视","type":3,
+	"api":"csp_XBPQ","searchable":1,
+	"quickSearch":1,"filterable":1,
+	"ext":{ "发布地址":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "主页url": "https://av77.com/",
+	"搜索模式": "1",
+   "搜索url":"https://av77.com/tags.html?wd={wd}",
+   "搜索后缀":"/video/",  
+   "搜索链接前缀":"https://av77.com/video/",
+    "搜索链接后缀":"/1/1.html",
+    "分类数组": "<a&&a>",
+    "分类标题": ">&&</span>",
+    "分类ID": "/type/&&.html\"",
+    "分类url": "https://av77.com/type/{cateId}/{catePg}.html;;z"}},		
+			
   
   
     
@@ -481,7 +544,12 @@
 	"分类url":"https://se.yesezyw.fun/shenma/{cateId}-{catePg}.html"}},
 	
 	
-	
+	{"key": "AV影视","name": "🎬AV影视🎬","type": 3,
+ "api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {
+      "图片": "data-src=\"&&\"",
+      "直接播放": "1",
+      "分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+      "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16"}},
 
 	
 	
@@ -822,9 +890,33 @@
 		 "分类url":"https://zaa.xxxxxxav1v123.com/t/{cateId}-{catePg}/;;z"}},
 
 			
-	
+	  {"key": "亚色影库","name": "🎬亚瑟影库🎬",
+		 "type": 3,"api": "csp_XBPQ","ext": {
+                "主页url": "https://www.yasetube.com/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "分类url": "https://www.yasetube.com/video/category/{cateId}/page/{catePg}",
+                "分类": "女厕偷拍$nvce#海角系列$hj#FC2 PPV$fc2-ppv#Mesubuta系列$me#MILF人妻无码$milf#偷拍自拍$dalu#品牌传媒$madou"}},
 
-			
+		      {"key":"沙咖影院","name":"🥉沙咖影院🥉",
+	  "type":3,"api":"csp_XBPQ","searchable":1,
+	  "quickSearch":1,"filterable":1,
+       "ext":{"数组":"stui-vodlist__thumb lazyload&&</a",
+     "标题": "title=\"&&\"",
+      "图片":"data-original=\"&&\"",
+     //"图片代理":"1",
+    "副标题":"pic-text text-right\">&&</span>",
+     "简介":"description\" content=\"&&\"",
+    "链接":"href=\"/sagydetail/&&.html\"",
+     "链接前缀":"https://sarga.cc/sagyplay/",
+     "链接后缀":"-1-1.html",
+     "跳转播放链接":"urlDecode(var player*url\":\"&&\")",
+    "搜索url":"https://sagya.cc/sagysearch/{wd}-p-1.html",
+    //"分类url":"https://sagya.cc/sagytype/{cateId}-{catePg}.html;;z",
+    "分类url":"https://sagya.cc/sagyshow/{cateId}-p{catePg}/by/{by}.html;;z",
+    //"排序": "热门$hits#点赞$up#评分$score",
+     "分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
+	
 	
 	
 	
