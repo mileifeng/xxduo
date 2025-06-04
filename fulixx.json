@@ -24,7 +24,17 @@
        "分类url": "https://www.wulangys.top/vodtype/{cateId}-{catePg}/",
        "分类":"剧情片场$6#自拍$7#萝莉$8#制服$9#主播$10#伦理$11#中文字幕$20#无码专区$13#欧美性爱$17#强奸乱伦$14#巨型大奶$15#精品影视$16"}},
 
-
+    {"key": "蒂娜影视","name": "蒂娜🌽影视️",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": { "数组": "\"thmbclck\"&&\"thmbclck\"",
+      "图片":"src=\"&&\"",
+      "标题":"alt=\"&&\"",
+      "链接":"href=\"&&\"",
+      "搜索url":"https://dina9988.vip/index.php/vod/search.html",
+	  "直接播放":"1",
+     "分类":"国产视频$11#日本视频$21#三级视频$71",
+     "分类url":"https://dina9988.vip/index.php/vod/type/id/{cateId}/by/{by}/page/{catePg}.html"}},
 
   
    {"key": "sebaa.mom","name": "SEBAA😮‍💨影院",
@@ -827,7 +837,42 @@
                 "分类": "视频一区$1#视频二区$29#视频三区$47#视频四区$68#视频五区$96#视频六区$115#视频七区$129#视频八区$190#视频九区$146#日本骑兵$34#中字$35"}},
     
  			
-	
+	   {"key": "qavav.my","name": "☁️91传媒仓库☁️",
+        "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://www.qavav.my/",
+	    
+       "数组": "class=\"video-pic loading\"&&</table>",
+       "标题": "title=\"&&\"",
+	   "副标题": "<div align=\"left\">&&</div>",
+       "图片":"style=\"background: url(&&) no-repeat;",
+	    "搜索后缀":"/index.php/vod/play/id/",
+       "搜索链接前缀":"https://www.qavav.my/",
+       "搜索链接后缀":"/sid/1/nid/1.html",
+       "链接":"href=\"&&\"",
+       "分类url": "https://www.qavav.my/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+	    "分类":"国产传媒$1#女友在线$3#精选视频$4#中文字幕$5#探花$12#精品日韩$2#欧美激情$13#重口激情$14",
+        "直接播放": "1",
+		 "搜索模式": "1", 
+        "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
+      }},
+			 
+			 
+		
+    {"key": "咪咪女孩","name": "咪咪👧女孩",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	  "数组": "\"list-item slick-item\"&&\"list-item slick-item\"", 
+	"图片":"style=\"background-image:url(&&)\"",
+	 "标题": "title=\"&&\"", 
+     "链接": "https://hg.mimigirl12.shop/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	"直接播放":"1", 
+	  "搜索url":"https://hg.mimigirl12.shop/index.php/vod/search.html?wd={wd}.html",
+      "搜索模式":"1",
+	 
+	"分类": "少女萝莉$21#视频伦理$22#制服诱惑$25#中文字幕$26#巨乳美乳$27#强奸乱伦$28#熟女人妻$29#步兵专区$31#国产自拍$32",
+	"分类url":"https://hg.mimigirl12.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+  	 
 			 
 			 
 			 
