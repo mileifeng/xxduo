@@ -24,9 +24,8 @@
         "搜索url":"https://www.13av.me/vodsearch/{wd}/page/{pg}.html",
 		"搜索链接前缀":"https://www.13av.me/vodplay/",
        "搜索链接后缀":"-1-1.html",  
-	    "分类数组": "<a&&a>",
-        "分类标题": "class=\"categoryListNode\">&&</",
-        "分类ID": "/vodtype/&&.html",
+	   "分类":"视频一区$2#视频二区$4#视频传媒$3",
+      "剧情": "亚洲$26#童颜$33#另类$34#不道德$35#妻妻$36#萝莉$37#原色$40||日韩$27#中字$29#制服$28#高清名优$41||空",
        "分类url": "https://www.13av.me/vodtype/{cateId}-{catePg}.html"
       }},
 	 
