@@ -3,7 +3,7 @@
 
 "sites":[
 
-      {"key": "13av家庭影院","name": "十三🏸家庭影院",
+      {"key": "13家庭影院","name": "十三🏸家庭影院",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {
@@ -25,7 +25,7 @@
 		"搜索链接前缀":"https://www.13av.me/vodplay/",
        "搜索链接后缀":"-1-1.html",  
 	    "分类数组": "<a&&a>",
-        "分类标题": ">&&</",
+        "分类标题": "class=\"categoryListNode\">&&</",
         "分类ID": "/vodtype/&&.html",
        "分类url": "https://www.13av.me/vodtype/{cateId}-{catePg}.html"
       }},
