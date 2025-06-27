@@ -491,26 +491,7 @@
    
      
 	  
-    {"key": "猫咪视频 ","name": "猫咪🐱视频",
-	"type": 3,"api": "csp_XBPQ","filterable": 1,
-	"ext": {  
-	 "数组": "<a class=\"thumbnail-link&&<a class=\"thumbnail-link",
-	 "图片": "src=\"&&\"",
-     "标题":"alt=\"&&\"",
-	"副标题": "<font color=\"red\">&&</font>", 
-	"简介": "description\" content=\"&&\"",  
-	 "链接": "href=\"&&\"",
-	 "播放数组": "<div class=\"entry-content\">&&</div>",
-	 "播放列表": "<a&&a>",
-     "播放标题":">&&</",
-	 "播放链接":"href=\"&&\"",
-	 "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
-	"分类":"骑兵$52#日本精品$30#中字$23#精品推荐$43", 
-	"搜索模式": "1", 
-	"搜索url": "https://33.creatchina.com/public/api.php?app=search&q={wd}",
-	"分类url":"https://33.creatchina.com/tag.php?id={cateId}&page={catePg}"
-	}},
-  
+ 
     
 
     
