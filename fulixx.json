@@ -1,7 +1,74 @@
 {
 "spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
-
+   
 "sites":[
+
+     {"key": "开车","name": "开车😮‍💨影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<a class=\"thumbnail&&</li>", 
+	"图片": "data-original=\"&&\"", 
+    "标题": "title=\"&&\"",
+	"副标题": "<span class=\"title\">&&</span>",  
+	 "分类数组": "<a&&a>",
+     "分类标题": ">&&</",
+     "分类ID": "/index.php/vod/type/id/&&.html",
+	 "直接播放":"1",
+	"搜索模式": "1", 
+	"搜索url": "https://www.kaichela9.shop/index.php/vod/search/page/{pg}/wd/{wd}",
+	"分类url":"https://www.kaichela9.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+
+
+
+       {"key": "打扑克","name": "打扑克😮‍💨影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+	"ext": { 
+	"数组": "<a class=\"thumbnail&&</li>", 
+	"图片": "data-original=\"&&\"", 
+	 "标题": "target=\"_blank\">&&</a>",
+	"副标题": "<span class=\"title\">&&</span>",  
+	 "分类数组": "<a&&a>",
+     "分类标题": ">&&</",
+     "分类ID": "/index.php/vod/type/id/&&.html",
+	"线路数组":"<ul class=\"detail-play-list&&</ul>",
+    "播放数组":"<ul class=\"detail-play-list&&</ul>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"href=\"&&\"",
+	"搜索模式": "1", 
+	"搜索url": "https://www.dapuke9.shop/index.php/vod/search.html?wd={wd}",
+	"分类url":"https://www.dapuke9.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+
+
+
+
+      { "key": "岛国A视频","name": "岛国A视频",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,"quickSearch": 1, "filterable": 1,
+      "ext": {"数组": "class=\"video-pic loading\"&&</a>",
+       "标题": "title=\"&&\"",
+       "图片": "data-original=\"&&\"",
+       "副标题": "subtitle text-time text-overflow\">&&</div>",
+       "链接":"href=\"&&\"",
+	   "线路数组": "<div class=\"play-list\">&&</div>",
+	    "线路标题": ">💣小日本💣<",
+	   	"播放数组": "<div class=\"play-list\">&&</div>",
+	    "播放标题": ">&&</",
+		"播放链接": "href=\"&&\"",
+		"播放列表": "<a&&a>",
+	   "搜索模式": "1", 
+	   "搜索后缀":"/index.php/vod/detail/id/",
+	   "搜索url": "https://o_fu_w.daoguoav.top/index.php/vod/search/page/{pg}/wd/{wd}",
+	   "嗅探词":".m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a",
+       "分类url": "https://o_fu_w.daoguoav.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+	    "分类数组": "<a&&a>",
+     "分类标题": ">&&</",
+     "分类ID": "/index.php/vod/type/id/&&.html"
+     }},
+      
+   
+
+
 
       {"key": "13家庭影院","name": "十三🏸家庭影院",
       "type": 3,"api": "csp_XBPQ",
@@ -490,20 +557,6 @@
    
    
      
-	  
- 
-    
-
-    
-  
-
-  
-
- 
- 
-
- 
- 
  
     
       {"key": "好莱污B","name": "好莱坞🚽影院",
@@ -600,7 +653,7 @@
       }},
   
   
-    	{"key":"av77.com/","name":"7️⃣ 7️⃣ 77影视","type":3,
+    {"key":"av77.com/","name":"7️⃣ 7️⃣ 77影视","type":3,
 	"api":"csp_XBPQ","searchable":1,
 	"quickSearch":1,"filterable":1,
 	"ext":{ "发布地址":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
